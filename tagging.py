@@ -16,7 +16,7 @@ import wave
 import pyaudio
 import numpy as np
 
-
+# emotions
 label_item_list = ["boredom","neutral","happy", "sad","angry", "fear", "disgust", "surprise", "excited","pleasure","pain","disapointed","others"]
 
 
