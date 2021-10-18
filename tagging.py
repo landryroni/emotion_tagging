@@ -1,5 +1,6 @@
 # voice emotion tagging
-# design by Junyao Zhan
+# designed by Junyao Zhan 
+# translated by Dejoli Tientcheu Touko Landry
 
 # -*- coding:utf-8 -*-
 import os
